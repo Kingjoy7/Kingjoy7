@@ -10,7 +10,6 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering at **PES University, Bangalore**
-- 💼 Former **Software Engineer Intern at Capgemini**
 - 🌱 Currently exploring **Full Stack Development, AI/ML, Distributed Systems, and Data Analytics**
 - 🧠 Solved **300+ DSA problems**
 - ⚡ I enjoy building products that are both **useful and visually polished**
@@ -71,65 +70,6 @@
 
 ---
 
-## 🏆 Experience
-
-### **Software Engineer Intern — Capgemini**
-**June 2025 – August 2025**
-
-- Built **Power BI dashboards** with robust data models and DAX measures for HR analytics
-- Created visualizations for **attrition, hiring, and training metrics**
-- Worked with **Azure SQL Database** for secure cloud data storage and reporting integration
-- Automated daily reporting workflows using **Python scripts and scheduled emails**
-
----
-
-## 📌 Featured Projects
-
-### 🔹 [PatreonHive](https://patreonhive.vercel.app)
-**Patreon-style Subscription Platform**
-
-A full-stack subscription platform built with **Next.js** that supports creator funding, secure authentication, and online payments.
-
-**Tech Stack:** `Next.js` `React` `Tailwind CSS` `MongoDB` `Razorpay` `OAuth 2.0`
-
-**Highlights:**
-- OAuth 2.0 based login/signup flow
-- Razorpay payment gateway integration
-- Responsive and polished UI
-- MongoDB-backed persistent storage
-
----
-
-### 🔹 Mini-HDFS
-**Distributed File System Clone**
-
-A simplified **Hadoop Distributed File System clone** built in Python using raw sockets to simulate distributed storage behavior.
-
-**Tech Stack:** `Python` `Sockets` `Distributed Systems`
-
-**Highlights:**
-- Distributed file storage architecture
-- Replication support
-- Heartbeat monitoring simulation
-- Low-level networking concepts in practice
-
----
-
-### 🔹 CharityPulse
-**Fundraiser Management Platform**
-
-A platform to create and manage fundraising campaigns, collect donor pledges, and visualize progress with dashboards and charts.
-
-**Tech Stack:** `Next.js` `Express` `MongoDB Atlas` `React` `Cypress` `CI/CD`
-
-**Highlights:**
-- Campaign and donation management
-- Progress tracking with visual summaries
-- Backend aggregation logic for fundraiser data
-- Testing pipeline with Cypress
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -143,20 +83,10 @@ A platform to create and manage fundraising campaigns, collect donor pledges, an
 
 ---
 
-## 🏅 Achievements & Certifications
-
-- 💯 **LeetCode 100 Days Coding Badge**
-- 🧩 Solved **300+ DSA problems**
-- 📜 PESU IO — *Your Odyssey into Full Stack Mastery*
-- 📬 Postman API Fundamentals Student Expert
-- ✅ HackerRank Problem Solving (Basic)
-
----
-
 ## 🎓 Education
 
 - **PES University, Bangalore**  
-  B.Tech in Computer Science and Engineering  
+  B.Tech in Computer Science and Engineering
 
 ---
 
