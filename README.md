@@ -100,21 +100,6 @@ A full-stack subscription platform built with **Next.js** that supports creator 
 
 ---
 
-### 🔹 CharityPulse
-**Fundraiser Management Platform**
-
-A platform to create and manage fundraising campaigns, collect donor pledges, and visualize progress with dashboards and charts.
-
-**Tech Stack:** `Next.js` `Express` `MongoDB Atlas` `React` `Cypress` `CI/CD`
-
-**Highlights:**
-- Campaign and donation management
-- Progress tracking with visual summaries
-- Backend aggregation logic for fundraiser data
-- Testing pipeline with Cypress
-
----
-
 ### 🔹 Mini-HDFS
 **Distributed File System Clone**
 
@@ -130,78 +115,18 @@ A simplified **Hadoop Distributed File System clone** built in Python using raw 
 
 ---
 
-### 🔹 [ChatTalk](https://github.com/Kingjoy7/ChatTalk)
-**Multi-User Chat Application**
+### 🔹 CharityPulse
+**Fundraiser Management Platform**
 
-A real-time chat app in Python with multi-user communication and a Tkinter-based GUI.
+A platform to create and manage fundraising campaigns, collect donor pledges, and visualize progress with dashboards and charts.
 
-**Tech Stack:** `Python` `Sockets` `Tkinter`
-
-**Highlights:**
-- Real-time multi-user communication
-- GUI-based interaction
-- User management with network sockets
-- Desktop chat experience with Python
-
----
-
-### 🔹 SmartStreetLite
-**IoT Street Lighting System**
-
-An automatic street lighting system using sensors for efficient power usage and improved road safety.
-
-**Tech Stack:** `C++` `IoT` `Sensors` `Embedded Systems`
+**Tech Stack:** `Next.js` `Express` `MongoDB Atlas` `React` `Cypress` `CI/CD`
 
 **Highlights:**
-- Sensor-driven automation
-- Embedded hardware control
-- Energy-efficient street lighting logic
-- Real-world IoT application
-
----
-
-### 🔹 PinnacleBank
-**Banking GUI Application**
-
-A Python GUI banking app that supports account operations, transactions, and a clean interface.
-
-**Tech Stack:** `Python` `GUI` `Tkinter`
-
-**Highlights:**
-- Account management workflows
-- Transaction handling
-- Desktop GUI interface
-- Practical OOP + UI integration
-
----
-
-### 🔹 Key Influencers Attrition
-**ML Visualization Project**
-
-A machine learning visualization project replicating a Key Influencers-style analysis using Logistic Regression to understand employee attrition.
-
-**Tech Stack:** `Python` `Jupyter` `Logistic Regression` `Data Visualization`
-
-**Highlights:**
-- Attrition factor analysis
-- Visualization-focused ML workflow
-- Logistic Regression based insights
-- HR analytics use case
-
----
-
-### 🔹 Personal Expense Tracker
-**Finance Management Tool**
-
-A personal finance tracker for managing expenses, budgets, and spending analysis.
-
-**Tech Stack:** `Python` `Data Analysis`
-
-**Highlights:**
-- Expense tracking
-- Budget management
-- Personal finance visualization
-- Practical analytics-based utility project
+- Campaign and donation management
+- Progress tracking with visual summaries
+- Backend aggregation logic for fundraiser data
+- Testing pipeline with Cypress
 
 ---
 
@@ -232,13 +157,6 @@ A personal finance tracker for managing expenses, budgets, and spending analysis
 
 - **PES University, Bangalore**  
   B.Tech in Computer Science and Engineering  
-  **CGPA: 8.50 / 10**
-
-- **Rahul International School, Mumbai (CBSE)**  
-  Class XII — **86.6%**
-
-- **Thakur Public School, Mumbai (ICSE)**  
-  Class X — **95.2%**
 
 ---
 
