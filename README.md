@@ -80,24 +80,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingjoy7&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
-
 ---
-
-## 🎓 Education
-
-- **PES University, Bangalore**  
-  B.Tech in Computer Science and Engineering
-
----
-
-## ✨ Developer Motto
-
-> Building impactful software, one project at a time.
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kingjoy7&label=Profile%20views&color=0e75b6&style=flat" alt="Kingjoy7" />
-</p>
